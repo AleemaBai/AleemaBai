@@ -4,17 +4,8 @@
 
 
 Hi,
-Welcome to my portfolio! My name is Aleema Bai and I am a WordPress developer with 5 years of experience. I specialize in creating custom WordPress solutions for businesses of all sizes, from small startups to large enterprises. With a strong foundation in PHP, MySQL, and front-end technologies, I am able to create websites that are both visually appealing and technically sound. In my 5 years as a WordPress developer, I have had the opportunity to work on a wide range of projects. I am always seeking new challenges and opportunities to expand my skills and knowledge. Thank you for visiting my portfolio. Please feel free to browse my work and contact me if you have any questions or would like to discuss a potential project.
+My name is Aleema Bai and I am a WordPress developer with 5 years of experience. I specialize in creating custom WordPress solutions for businesses of all sizes, from small startups to large enterprises. With a strong foundation in PHP, MySQL, and front-end technologies, I am able to create websites that are both visually appealing and technically sound. In my 5 years as a WordPress developer, I have had the opportunity to work on a wide range of projects. I am always seeking new challenges and opportunities to expand my skills and knowledge. Thank you for visiting my portfolio. Please feel free to browse my work and contact me if you have any questions or would like to discuss a potential project.
 
-
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
 
 Languages and Tools: 
 
