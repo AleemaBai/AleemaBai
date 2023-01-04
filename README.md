@@ -3,9 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aleema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleema-bai-323a24107)](https://www.linkedin.com/in/aleema-bai-323a24107)
 
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Hi,
+Welcome to my portfolio! My name is Aleema Bai and I am a WordPress developer with 5 years of experience. I specialize in creating custom WordPress solutions for businesses of all sizes, from small startups to large enterprises. With a strong foundation in PHP, MySQL, and front-end technologies, I am able to create websites that are both visually appealing and technically sound. In my 5 years as a WordPress developer, I have had the opportunity to work on a wide range of projects. I am always seeking new challenges and opportunities to expand my skills and knowledge. Thank you for visiting my portfolio. Please feel free to browse my work and contact me if you have any questions or would like to discuss a potential project.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
